@@ -1,0 +1,23 @@
+name: "Frank Silvera Writer'sWorshop"
+favicon: null
+layout_spectrum: 0.3049497692845762
+typography_spectrum: 0.595638977130875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5438621097709984
+  lightness: 0.5299844848923385
+  saturation: 0.20404540840536356
+  rhythmicContrast: 0.1621117501053959
+purpose: []
