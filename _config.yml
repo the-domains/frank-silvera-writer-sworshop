@@ -1,6 +1,6 @@
 name: "Frank Silvera Writer'sWorshop"
 favicon: null
-layout_spectrum: 0.57003
+layout_spectrum: 0.64002
 typography_spectrum: 0.595638977130875
 title: "Frank Silvera Writer's Workshop Foundation, Inc."
 cta:
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#00caff'
+    - '#120d1c'
+    - '#cdbdb1'
+    - '#ffffff'
+    - '#bc4d2a'
   brandStrength: 0.625
   lightness: 0.5299844848923385
   saturation: 0.20404540840536356
