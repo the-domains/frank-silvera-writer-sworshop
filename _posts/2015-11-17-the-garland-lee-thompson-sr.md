@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-17T19:18:24.459Z'
-dateModified: '2015-11-17T19:14:23.298Z'
+datePublished: '2015-11-17T19:57:54.436Z'
+dateModified: '2015-11-17T19:18:24.459Z'
 title: "The Garland Lee Thompson Sr.\_"
 authors: []
 publisher:
