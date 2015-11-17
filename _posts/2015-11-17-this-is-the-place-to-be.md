@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'GLT Sr. & a playwright'
-datePublished: '2015-11-17T16:31:51.938Z'
-dateModified: '2015-11-17T16:31:05.034Z'
+datePublished: '2015-11-17T18:55:07.675Z'
+dateModified: '2015-11-17T18:54:58.323Z'
 title: 'This is the place to be!'
 authors: []
 publisher:
