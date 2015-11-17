@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-17T17:20:44.575Z'
-dateModified: '2015-11-17T17:20:26.473Z'
+datePublished: '2015-11-17T18:15:12.646Z'
+dateModified: '2015-11-17T18:14:58.768Z'
 title: "The Garland Lee Thompson Sr. Reader's Theater of New Works!"
 authors: []
 publisher:
@@ -22,4 +22,4 @@ _type: Article
 
 ---
 # The Garland Lee Thompson Sr. Reader's Theater of New Works!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b3815ae-51f7-4d41-b128-9754aff67068.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4276e8df-9965-4170-b9bf-8d5c5d95ab02.jpg)
